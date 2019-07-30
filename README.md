@@ -2,9 +2,16 @@
 
 > Vuetroit Meetup Group Site
 
+## Resources
+
+We used the following tech to create this site:
+
+- [Nuxt Documentation](https://nuxtjs.org/guide/installation/)
+- [Deploy setup for Netlify + Nuxt](https://nuxtjs.org/faq/netlify-deployment)
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm run install
 
