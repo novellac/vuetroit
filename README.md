@@ -8,6 +8,7 @@ We used the following tech to create this site:
 
 - [Nuxt Documentation](https://nuxtjs.org/guide/installation/)
 - [Deploy setup for Netlify + Nuxt](https://nuxtjs.org/faq/netlify-deployment)
+- [Hosting via Netlify](https://www.netlify.com/)
 
 ## Build Setup
 
